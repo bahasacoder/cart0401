@@ -1,0 +1,34 @@
+{
+  "name": "cart0401",
+  "version": "1.0.0",
+  "description": "love",
+  "homepage": "https://github.com/bahasacoder/cart0401#readme",
+  "bugs": {
+    "url": "https://github.com/bahasacoder/cart0401/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bahasacoder/cart0401.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "next": "^16.1.1",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  },
+  "devDependencies": {
+    "@types/node": "25.0.3",
+    "@types/react": "19.2.7",
+    "typescript": "5.9.3"
+  }
+}
